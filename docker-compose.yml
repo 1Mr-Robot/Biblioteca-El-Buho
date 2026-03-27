@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: el-buho
+    ports:
+      - "8004:80"
+    restart: always
