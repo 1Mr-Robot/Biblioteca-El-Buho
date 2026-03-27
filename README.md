@@ -1,4 +1,4 @@
-# BiblioTech - Biblioteca Virtual
+# Biblioteca "El Búho"
 
 ## Informacion del Proyecto
 
