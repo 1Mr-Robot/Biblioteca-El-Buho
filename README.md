@@ -18,6 +18,10 @@
 
 Biblioteca "El Búho" es una aplicacion web de biblioteca ficticia cuyo objetivo es facilitar a los lectores el hallazgo de sus libros y autores favoritos, asi como optimizar el proceso de prestamo de libros.
 
+<p align="center">
+    <img src="https://uziel.app/media/projects/biblioteca-el-buho/og.webp" alt="hero"  />
+</p>
+
 ---
 
 ## Proposito
