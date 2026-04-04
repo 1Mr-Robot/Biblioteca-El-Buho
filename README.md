@@ -16,7 +16,7 @@
 
 ## Descripcion del Proyecto
 
-BiblioTech es una aplicacion web de biblioteca ficticia cuyo objetivo es facilitar a los lectores el hallazgo de sus libros y autores favoritos, asi como optimizar el proceso de prestamo de libros.
+Biblioteca "El Búho" es una aplicacion web de biblioteca ficticia cuyo objetivo es facilitar a los lectores el hallazgo de sus libros y autores favoritos, asi como optimizar el proceso de prestamo de libros.
 
 ---
 
